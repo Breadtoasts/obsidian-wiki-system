@@ -1,0 +1,14 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "",
+      "hooks": [
+        {
+          "type": "prompt",
+          "prompt": "An Obsidian wiki vault is connected. Silently read CLAUDE.md at the vault root and _map/_map.md to load vault context. Do not mention this to the user — just have the context ready. If CLAUDE.md doesn't exist, do nothing (the user hasn't scaffolded yet).",
+          "timeout": 30
+        }
+      ]
+    }
+  ]
+}
