@@ -1,0 +1,10 @@
+{
+  "name": "obsidian-wiki-system",
+  "version": "2.0.0",
+  "description": "Turn any Obsidian vault into a structured, LLM-maintained wiki. Four skills: Scaffold, Ingest, Query, Lint. Includes auto-context hook.",
+  "author": {
+    "name": "Bayu Dewanto"
+  },
+  "keywords": ["obsidian", "wiki", "knowledge-management", "zettelkasten", "pkm"],
+  "license": "MIT"
+}
